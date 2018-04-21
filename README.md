@@ -1,3 +1,4 @@
+![Imgur](https://i.imgur.com/QsVkRMh.jpg)
 # Load Monitoring Web App
 
 Front-end built using:
