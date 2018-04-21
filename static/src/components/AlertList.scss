@@ -1,0 +1,28 @@
+@import '../variables';
+
+.alert-list {
+    background: #E3E7E7;
+    box-shadow: $subtle-box-shadow;
+    font-weight: 500;
+    padding: 10px 0;
+}
+
+.alert-list {
+    ul {
+        list-style-type: none;
+        text-align: left;
+    }
+
+    li {
+        font-size: 1rem;
+        padding: 5px;
+    }
+
+    h4 {
+        margin: 0;
+    }
+}
+
+.alert-message.alert-highload {
+    color: #D50000;
+}

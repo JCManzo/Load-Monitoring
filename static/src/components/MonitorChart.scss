@@ -1,0 +1,20 @@
+@import '../variables';
+
+.monitor-chart {
+    background: $white;
+    box-shadow: $subtle-box-shadow;
+}
+
+.monitor-controls {
+    background: $purple;
+    color: $white;
+    padding: 10px 0;
+    font-weight: 600;
+    width: 100%;
+}
+
+.monitor-controls {
+    input, select {
+        margin: 0 10px;
+    }
+}

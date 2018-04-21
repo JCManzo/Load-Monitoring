@@ -1,0 +1,33 @@
+@import '../variables';
+
+.chart-container {
+    padding-bottom: 10px;
+    h4 {
+      margin: 10px 0;
+    }
+}
+
+.line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}
+
+.grid {
+  line {
+    stroke: lightgrey;
+    stroke-opacity: 0.7;
+  }
+
+  .tick:first-of-type {
+    display: none;
+  }
+
+  path {
+    stroke-width: 0;
+  }
+}
+
+.axis-label {
+  fill: grey;
+}
