@@ -12,7 +12,7 @@ export default class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h2>Doggy&apos;s Dashboard</h2>
+          <h2>My Dashboard</h2>
         </header>
         <Dashboard />
       </div>

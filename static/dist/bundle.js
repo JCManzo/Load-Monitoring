@@ -39999,7 +39999,7 @@ var App = function (_Component) {
             _react2['default'].createElement(
               'h2',
               null,
-              'Doggy\'s Dashboard'
+              'My Dashboard'
             )
           ),
           _react2['default'].createElement(_Dashboard2['default'], null)
